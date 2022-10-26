@@ -10,5 +10,5 @@ if(word1.length > word2.length){
     console.log(word1, word2);
 }
 else{
-    console.log(word1, word2);
+    console.log(word2, word1);
 }
