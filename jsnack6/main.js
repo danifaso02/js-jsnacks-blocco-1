@@ -8,7 +8,7 @@ let sum = 0;
 
 // ciclo
 for (let i=0; i < listNum.length; i++){
-    if(i % 2 != 1){
+    if(i % 2 != 0){
         sum = sum + listNum[i];
     }
 }
